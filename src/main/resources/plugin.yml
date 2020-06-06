@@ -1,0 +1,7 @@
+name: Speedrun
+version: ${project.version}
+main: net.projecthorizon.speedrun.Speedrun
+api-version: 1.15.2
+load: STARTUP
+authors: [TronixX]
+website: www.project-horizon.net
